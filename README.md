@@ -13,6 +13,7 @@ Here is What I'm Working On 👋
     https://www.linkedin.com/in/ivan-boccia-358328258/
 
     📫 [a link](https://www.linkedin.com/in/ivan-boccia-358328258/)
+    My favorite search engine is <a href=\"https://duckduckgo.com\" title=\"The best search engine for privacy\">Duck Duck Go</a>.
 
 
 
