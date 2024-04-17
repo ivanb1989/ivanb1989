@@ -11,9 +11,15 @@ Here is What I'm Working On 👋
 
     🌱 I’m currently learning Svelte and Kotlin
     https://www.linkedin.com/in/ivan-boccia-358328258/
-
-    📫 [a link](https://www.linkedin.com/in/ivan-boccia-358328258/)
-    My favorite search engine is <a href=\"https://duckduckgo.com\" title=\"The best search engine for privacy\">Duck Duck Go</a>.
+    &lt;a href="https://www.example.com/my great page"&gt;link&lt;/a&gt;<br><br>
+    </code>
+  </td>
+  <td>
+    <code class="highlighter-rouge">
+    [link](https://www.example.com/my great page)<br><br>
+    </code>
+  </td>
+</tr>
 
 
 
