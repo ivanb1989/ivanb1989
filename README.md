@@ -10,8 +10,9 @@ Here is What I'm Working On 👋
     🏋️ I’d love to work more with Java and Spring
 
     🌱 I’m currently learning Svelte and Kotlin
+    https://www.linkedin.com/in/ivan-boccia-358328258/
 
-    📫 [a link](https://github.com/user/repo/blob/branch/other_file.md)
+    📫 [a link](https://www.linkedin.com/in/ivan-boccia-358328258/)
 
 
 
