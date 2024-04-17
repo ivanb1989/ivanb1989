@@ -11,7 +11,7 @@ Here is What I'm Working On 👋
 
     🌱 I’m currently learning Svelte and Kotlin
 
-    📫 [{Site name}]({https://www.linkedin.com/in/ivan-boccia-358328258/})
+    📫 [a link](https://github.com/user/repo/blob/branch/other_file.md)
 
 
 
