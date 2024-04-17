@@ -11,7 +11,7 @@ Here is What I'm Working On 👋
 
     🌱 I’m currently learning Svelte and Kotlin
 
-    📫 How to reach me:[LinkedIn] (https://www.linkedin.com/in/ivan-boccia-358328258/)
+    📫 <a href="https://www.linkedin.com/in/raffaelefraioli/" rel="nofollow">Linkedln</a>
 
 
 
